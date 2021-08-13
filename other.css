@@ -1,0 +1,35 @@
+nav {
+	width: 100%;
+	z-index: 100;
+}
+
+#banner {
+	width: 100%;
+	object-fit: cover;
+}
+
+#description, p {
+	text-align: justify;
+}
+
+h3 {
+	text-align: center;
+}
+
+.pic {
+	padding-top: 20px;
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	border-radius: 60px;
+}
+
+.row {
+	padding: 20px;
+}
+
+.d-block {
+	height: 550px;
+	object-fit: cover;
+	border-radius: 40px;
+}
